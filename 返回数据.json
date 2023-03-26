@@ -1,0 +1,1849 @@
+{
+    "Response": {
+        "hotelList": {
+            "list": [
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.6",
+                        "desc": "好",
+                        "subScore": [
+                            {
+                                "number": "4.6",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "163",
+                        "priceDelete": "276",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥113"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "163",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 3,
+                        "hotelName": "锦江之星风尚(上海浦东机场镇店)",
+                        "hotelId": 5099462,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "接机服务",
+                            "行李寄存",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "3项优惠113",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/20030k000000ce6b07B86_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "浦东机场核心区",
+                        "poi": "距市中心直线26.3公里",
+                        "lat": "31.182506",
+                        "lng": "121.744364",
+                        "address": "川南奉公路971弄1号7幢",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "2,534条点评"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M2M+hUSBEHmmul8dy84TEk9YfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dAzgCpCJj4n4KIbY5Sw8zDFFzp9qIS/1XkrC6QwMsVC11/Z\nYckRdtqb2e+Uuw+qm04rkMoYesexiNgeSdgqYxDDrlD5rF8bCAUe+YDib3wAEbCPt7fZ0aoIS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRWOtZchfnGUf8Eg9xRqDGB6eYk8Wbbf0mgA1j5MLC7O+aMHCP+bUGAI+RHHHMa+G85/0cxG4\nAoTz3IV4VxnSI0EyTyYlI/aNyH60f3e9oRGHeGAc32KsrTsAw13LcK+cse79MBqxfZ4AhZPQrwBg\n+fiJ40NKRvr8DtyA1b7yuodjJ2oIwihoQdJo7jHF3l7khYMyFKg/0oBHKrxqleQjXCzb38b/CcO/\n0nY5B+9p7qmTMJYFTKcczc54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlMyn5MCM+Wg7UiRIr42YK8T\nVEDtlS3BpzBr+K7EBlyM++UVYFbgNYhsz7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afV83D2eUBfCXxX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdqYbNW8sgitqyenit75wlq9DcNbRGJH5BUxb/GA5YkEkd9P6Z54U8CJl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+                    "traceInfo": "{\"timestamp\":1679817397346,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":5099462,\"groupId\":565,\"roomId\":587092208,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥276"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥42"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥56"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥15"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥163"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.5",
+                        "desc": "不错",
+                        "subScore": [
+                            {
+                                "number": "4.5",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.4",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "324",
+                        "priceDelete": "458",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥134"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "324",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 4,
+                        "hotelName": "维也纳酒店(上海浦东机场店)",
+                        "hotelId": 1073814,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "接机服务",
+                            "行李寄存",
+                            "商务中心",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "3项优惠134",
+                                "style": "0"
+                            },
+                            {
+                                "title": "门店首单",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond4_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/hotel/795000/794773/ea6a19ec0b024ce1a00cd9f69bf71b31_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "浦东机场核心区",
+                        "poi": "距市中心直线26.5公里",
+                        "lat": "31.175403",
+                        "lng": "121.744947",
+                        "address": "川南奉公路1226号11幢",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "3,440条点评"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M3qBkcfZL4jcOwRYqNVSgC3O1bnLuTC7I0QGDLj+7Jkb0RNiQgUdavdEGuA8pLesZ5y\nrv5UHiRnt9hoe1ZmBZ43rpOO6qqlTstrS6gCUomJtaxsazS5fTyVTYJDoqWGkE7JCageq0BghS//\nVK4q4KD5D5hzY9RGBCz7RPqJtqhS/bQFRkz3giGHwNqRcv85aSb1XLbEABvXRdHsFWot8K+hTxf4\nkR5sJnce+YDib3wAEWKZcrx1UUkIWPQXYo/QmMHymn6EuvRaRkqjOzZibnD+ZRQ487SA/t+LsBUY\nfkcE0WFyNkQO5mTGaaRSpyLPfhnc4NSIExfotV0tXIHkGsE4MPEQXagW761S8Y/3GapAVLL2OIpf\niLUcdNHV1Arac51Yu7RZIb+nsyKPvmG93vbA0Zj21BxlmTr+50fwKxo5u72/hMpn8EOr2GS2/lr0\nClMeZFPsaJ8BPxjD6CNvkiKOB3vRajalSiQ/yzbywYzNvEjAAOMZWa/XsXLIImvm70hqGPN1qB3x\n2nz2qMPCLjuY/ssirw/3aYi/jbQShEzj3kOOmuRIMCyvNlq1qdipGhUvY618KHJt1l1pCK/IFRMg\nl3+J9uTgGFebbTvLyXxUuUl4toXEoyK1ChRCiy4duEj+XNoiOLaWbzZUyy6Eu8VD\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afXrgfZi7ofCExX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1RIStPd8pObedDcNbRGJH5BOhx1eR8w5dyva8/tAjO1n/YUDiOc/zfGgU1XLfmWWrwsciV9RIYdCA==",
+                    "traceInfo": "{\"timestamp\":1679817397348,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":1073814,\"groupId\":565,\"roomId\":5945100,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥458"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥69"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "门店首单",
+                                    "content": "- ¥55"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "满减券",
+                                    "content": "- ¥10"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥324"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.5",
+                        "desc": "不错",
+                        "subScore": [
+                            {
+                                "number": "4.5",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "248",
+                        "priceDelete": "318",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥70"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "248",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 3,
+                        "hotelName": "唯庭酒店(上海金桥店)",
+                        "hotelId": 430879,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "Spa",
+                            "行李寄存",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "2项优惠70",
+                                "style": "0"
+                            },
+                            {
+                                "title": "新客券",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/02003120003n146ca1494_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "浦东金桥",
+                        "poi": "距市中心直线11.1公里",
+                        "lat": "31.25268",
+                        "lng": "121.587442",
+                        "address": "金桥路1388号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "1,694条点评"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M3TnebjbkKNlYNreJMHTvMgYfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dAo5VFHwyDgz6IbY5Sw8zDFFzp9qIS/1Xn8yp8+Uinnl1/Z\nYckRdtqb2e+Uuw+qm04NNGbUrZOpMmirg9h0+cFqJIM6WyZNyzCu3EtJ3TTimZ4yjfY1m26T6PqD\nSMZt3ZA35aErb2UaLG89iQKwlb8l9Fn5oVkl5H1vclx4KtCNJWL7QWC4nPYUD5hzY9RGBCzZXytO\nf0UeEegc7nuNDmN9mLIAhLjTQ02sNGCU+xVzaTnHSUsweaaUCGPZ19M5FFfg63lIT3kj8308jMA+\nsv67bTn7CiyrXU0DDuOepvXs4hoUXbTiXUCqu14WG/y3QL0QjaGge/hxVXcM6AQwtCoNxPYM8gbk\nGpseZFPsaJ8BPxjD6CNvkiKOB3vRajalSiQ/yzbywYzNvEjAAOMZWa/XsXLIImvm70hqGPN1qB3x\n2nz2qMPCLjuY/ssirw/3aYi/jbQShEzj3kOOmuRIMCyvNlq1qdipGhUvY618KHJt1l1pCK/IFRMg\nl3+J9uTgGFfgr9WlDoctnkl4toXEoyK1ChRCiy4duEj+XNoiOLaWbzZUyy6Eu8VD\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afVYqNJI1a1fzZAfXqGQz1oPznji4MwUzjyONHPTyENDQ4UXWzwa4EC4adX5q1O0Alj+ia8AffKNftPX2HV0j91/nd00XSD5Ff2va8/tAjO1n/YUDiOc/zfGgU1XLfmWWrwsciV9RIYdCA==",
+                    "traceInfo": "{\"timestamp\":1679817397353,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":430879,\"groupId\":458,\"roomId\":643568295,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥318"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥48"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥22"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥248"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.7",
+                        "desc": "很好",
+                        "subScore": [
+                            {
+                                "number": "4.7",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "253",
+                        "priceDelete": "427",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥174"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "253",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 3,
+                        "hotelName": "艺龙安悦酒店(上海浦东大道歇浦路地铁站店)",
+                        "hotelId": 90105082,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "咖啡厅",
+                            "行李寄存",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "p5Tags": [
+                            {
+                                "title": "3项优惠174",
+                                "style": "0"
+                            },
+                            {
+                                "title": "超级周末",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/0204w120009d9lwi986F7_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "浦东金桥",
+                        "poi": "距市中心直线7.6公里",
+                        "lat": "31.24999948224183",
+                        "lng": "121.5503163798899",
+                        "address": "浦东金桥浦东大道2123号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "886条点评"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M1w7k6sgvTN8N3wVg+ua0cveuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwvcArt3BEQmESUf5NraAAq1bAHAhQxQSEkmUDqTno0Txvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRdE5Uyme/spwLv+nT/fWbOnqfjXRcro4Q3KvUDr+t34n73hm\nTM2OvHsPmHNj1EYELPKafoS69FpGNq6ETo06uwepCJPP7gc1hS2OwK1PMiTEsQzLLu9Qb7o35aEr\nb2UaLPGRBvpu+fNU0boDrODyywG6UEFvmFkZWJBytYylxzW1mbIp0OrjOc1YPn4VW8EXpMHHlVjg\nLsBoJ+y2tvvvKb4AN7aN2mCaGpYsEMLacGZawXhp2ovH20/d8FYPrmtHLxCNoaB7+HFVO7btL3L4\neu2BgsTYZ6hqKT0qASjnAeeKtYE4gXbCVL5Km7Nwmkmo96Z/gJqJbxIxCXHPylbYgxfB0DCpaHuh\nVWTSXHrnM1rj8WzeO9rsVg/wy9cPsqh9+K9vlH6Bkr+gJQn8wAF+EB9C/avBpOMEmELMNXWKhVaz\nOSMxNiKFXWC6+OCu33fBZx01yKiwO9y0Qha4fXehAEXjKwuOq8IN5T+0lPuJOamLg3kg94zLaRw=\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afV9R4vmbfb9VBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdUx7ic+vKHmgIBd109C7enw24Uoy0FTCdk44LF3qXNsOpLWxfnEIrN1v4D1/kWIvoDTAsWWJXYcz1QoNzOxEEXw==",
+                    "traceInfo": "{\"timestamp\":1679817397355,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":90105082,\"groupId\":2153,\"roomId\":1198296620,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥427"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥65"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "超级周末",
+                                    "content": "- ¥86"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥23"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥253"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.3",
+                        "desc": "",
+                        "subScore": [
+                            {
+                                "number": "4.4",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.3",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.3",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.2",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "206",
+                        "priceDelete": "308",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥102"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "206",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "STAR",
+                        "star": 3,
+                        "hotelName": "上海珠街阁大酒店",
+                        "hotelId": 1164707,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "桌球室",
+                            "免费停车",
+                            "咖啡厅",
+                            "茶室",
+                            "穿梭机场班车",
+                            "行李寄存",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "3项优惠102",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_star3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/0202z120008uowlskE424_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "青浦朱家角/东方绿舟",
+                        "poi": "距市中心直线41.3公里",
+                        "lat": "31.1089231177536",
+                        "lng": "121.06453786458",
+                        "address": "朱家角镇祥凝浜路118号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "569条点评"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M119XKpa2t3wK71ftlaZ9+2YfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dDD1O7VrNQ+zaIbY5Sw8zDFFzp9qIS/1XkS7YlTgbx+8V/Z\nYckRdtqb2e+Uuw+qm04t10L5tjUAdVYqleXNDKH3rlD5rF8bCAUe+YDib3wAEXAQUMtaLe6sS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRYAyOGe5dBo48Eg9xRqDGB6eYk8Wbbf0mgA1j5MLC7O+aMHCP+bUGAI+RHHHMa+G85/0cxG4\nAoTz3IV4VxnSI0EyTyYlI/aNyH60f3e9oRGHaZPTMDxlh5PKqyaiUaJtZO79MBqxfZ4A0o2kIfvZ\ncyKJ40NKRvr8DtyA1b7yuodjJ2oIwihoQdJo7jHF3l7khYMyFKg/0oBHKrxqleQjXCzb38b/CcO/\n0nY5B+9p7qmTMJYFTKcczc54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlMyn5MCM+Wg7UiRIr42YK8T\nVEDtlS3BpzBr+K7EBlyM+6r1U0Aqb8IQz7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afUC4f2Xes717RX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1S19MZ9ej6co9DcNbRGJH5B8NnZdZ3dUUwd9P6Z54U8CJl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+                    "traceInfo": "{\"timestamp\":1679817397359,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":1164707,\"groupId\":0,\"roomId\":826925968,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥308"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥47"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥37"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥18"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥206"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.8",
+                        "desc": "棒",
+                        "subScore": [
+                            {
+                                "number": "4.8",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "173",
+                        "priceDelete": "299",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥126"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "173",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 2,
+                        "hotelName": "浩克电竞酒店(奉贤南桥店)",
+                        "hotelId": 103784707,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "0",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "停车场",
+                            "茶室",
+                            "行李寄存",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": false,
+                        "encryptTags": [],
+                        "p5Tags": [
+                            {
+                                "title": "2项优惠126",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "限时抢购",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond2_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/1mc4r12000aezn9fb010A_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "奉贤开发区",
+                        "poi": "距市中心直线34.8公里",
+                        "lat": "30.918232268212318",
+                        "lng": "121.4780944818172",
+                        "address": "解放东路842号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "41条点评"
+                    },
+                    "banner": {
+                        "type": 6,
+                        "traceAdContextId": "H4sIAAAAAAAAAOO4t2Tt848GAowGjB6MAYxRzIZWRglMGQ1tKgWsHYxyExgZATeDzYsiAAAA"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M3DgOP/EnQlKzVUDeqJyPH3euzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBxnHkfhNqWWLUSUf5NraAAq1bAHAhQxQSFsMnbsZH9a4hvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRT2CobUQMrZNJ7glpfIyhHiQm/r23c1v7G9yXHgq0I0lfl41\noPW4M1zqfjXRcro4Qyabqk1YXWmkXnb8RcObmxkkbi3I0DOqEyB6yZRqqFHnwx9lPS2DpTINNGbU\nrZOpMja73uEEQGvkmyEfZHchUr+4LhWLe4Vp5dsBTe8wS1D/WD5+FVvBF6TBx5VY4C7AaCfstrb7\n7ym+ADe2jdpgmhqWLBDC2nBmWpjLAO3IQw4WNVQN6onI8fcQjaGge/hxVVsyn07KUEPTGpbsR4e7\n5M0rpwtghENw5h9bp/mvka+sTQ2QJrEJMCmWLC+GbX7gkSOwKphJW8K3ZyTNTZelt9A5wTFCRLk1\nJzQIxpI9HeYm6D/udyxQRbNen00PPfA3moblUE+fB/tpCgqI9z1T4R3xWErMSI4OisFRx1ISX2Bz\nIWB7VeUgOkJ3ghV1gfPTc15sIhujR1wghTho/+Pai9E7+MeHFsioQbX+znYBtTQB\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afXeftfcqIFBHhX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1TTpEydp03DWsoEfNZvf4Gyw9jQLtdnmmSa1Suy1ngyfIkLrxrls0M0Gl28YzjKjf4Y1g91tL5x3By/G9d1Bprz",
+                    "traceInfo": "{\"timestamp\":1679817397361,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":103784707,\"groupId\":0,\"roomId\":1338732612,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥299"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "限时抢购",
+                                    "content": "- ¥114"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥12"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥173"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.5",
+                        "desc": "不错",
+                        "subScore": [
+                            {
+                                "number": "4.5",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "270",
+                        "priceDelete": "284",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥14"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "270",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 4,
+                        "hotelName": "和颐至尊酒店(上海陆家嘴世博园店)",
+                        "hotelId": 15878972,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "咖啡厅",
+                            "行李寄存",
+                            "商务中心",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": false,
+                        "encryptTags": [],
+                        "p5Tags": [
+                            {
+                                "title": "优惠14",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond4_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/0204g120008i6tz7s2FE6_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "新国际博览中心",
+                        "poi": "距市中心直线5.4公里",
+                        "lat": "31.194967",
+                        "lng": "121.512578",
+                        "address": "临沂路140号-180号1F部分、4F、5F",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "1,009条点评"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M3DgOP/EnQlK3gOkiDsaKfdeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBzwaDAqCZ11akSUf5NraAAq1bAHAhQxQSFrzBLRS/AcGBvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRVD45LYK5tQTLv+nT/fWbOnqfjXRcro4Qyabqk1YXWmkTxf4\nkR5sJnce+YDib3wAEWKZcrx1UUkIWPQXYo/QmMHymn6EuvRaRkqjOzZibnD+ZRQ487SA/t/hs0as\nVk5sF2mrePlP3kb68m7eGwpLVrf8Y4BNPtE2XzXQE8qlc+tZeryg+GksM0vg63lIT3kj8308jMA+\nsv67bTn7CiyrXU0DDuOepvXs4m/x/qtQbwnm5LYbpqyAQ208kVdWY+lJkYS5qys30lhOqR5NHloC\nO1wrpwtghENw5h9bp/mvka+sTQ2QJrEJMCmWLC+GbX7gkSOwKphJW8K3ZyTNTZelt9A5wTFCRLk1\nJzQIxpI9HeYm6D/udyxQRbNen00PPfA3moblUE+fB/tpCgqI9z1T4R3xWErMSI4OisFRx1ISX2Bz\nIWB7VeUgOkJ3ghV1gfPTcyZFFIsA32u5hTho/+Pai9E7+MeHFsioQbX+znYBtTQB\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afWTKaFMn7jdrBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1ThYndzMDqtLg24Uoy0FTCdDfoYxtwIU89qSslPTrpUpFv4D1/kWIvoDTAsWWJXYcz1QoNzOxEEXw==",
+                    "traceInfo": "{\"timestamp\":1679817397365,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":15878972,\"groupId\":1,\"roomId\":1367896716,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥284"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥14"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥270"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.5",
+                        "desc": "不错",
+                        "subScore": [
+                            {
+                                "number": "4.5",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.5",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "222",
+                        "priceDelete": "269",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥47"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "222",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 3,
+                        "hotelName": "唯庭轻居酒店(上海虹桥机场国家会展中心店)",
+                        "hotelId": 31117632,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "23",
+                        "badgeHover": "携程紧密合作酒店/供应商，为携程会员提供优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "停车场",
+                            "接机服务",
+                            "行李寄存",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": false,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "2项优惠47",
+                                "style": "0"
+                            },
+                            {
+                                "title": "折扣券",
+                                "style": "1"
+                            },
+                            {
+                                "title": "门店首单",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/0202s120008dci6cxCFE7_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "虹桥机场/国家会展中心",
+                        "poi": "距市中心直线14.1公里",
+                        "lat": "31.221236",
+                        "lng": "121.325483",
+                        "address": "北翟路2873号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "1,430条点评"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M3QiUmvHeua7hVFB5y8Q+qqYfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dDaILeXJmgcFqIbY5Sw8zDFFzp9qIS/1XnaFItOguQp0V/Z\nYckRdtqb2e+Uuw+qm04t10L5tjUAdWq8moHBzua+rlD5rF8bCAUe+YDib3wAEWKZcrx1UUkI6PqD\nSMZt3ZA35aErb2UaLG89iQKwlb8l9Fn5oVkl5H1vclx4KtCNJWL7QWC4nPYUD5hzY9RGBCxTyxA6\nezSKaOgc7nuNDmN9mLIAhLjTQ02sNGCU+xVzaTnHSUsweaaUCGPZ19M5FFfg63lIT3kj8308jMA+\nsv67bTn7CiyrXU0DDuOepvXs4gYTGWdl9LwTJbUE9n2oKIIQjaGge/hxVcOxvaTSxU6eanSOQULL\nsM09KgEo5wHnirWBOIF2wlS+SpuzcJpJqPemf4CaiW8SMQlxz8pW2IMXwdAwqWh7oVVk0lx65zNa\n4/Fs3jva7FYP8MvXD7Koffivb5R+gZK/oCUJ/MABfhAfQv2rwaTjBJhCzDV1ioVWszkjMTYihV1g\nuvjgrt93wWfuetGZO+O6o39wYDcz5DRH4ysLjqvCDeU/tJT7iTmpi4N5IPeMy2kc\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afUCA2xK7A/EDBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdM3yn/9otB/Ex3jIBSpfzkQ24Uoy0FTCdpJbthjeTl34R6E/IxmeAVfdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+                    "traceInfo": "{\"timestamp\":1679817397369,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":31117632,\"groupId\":458,\"roomId\":517161874,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥269"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "门店首单",
+                                    "content": "- ¥33"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "折扣券",
+                                    "content": "- ¥14"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥222"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.7",
+                        "desc": "很好",
+                        "subScore": [
+                            {
+                                "number": "4.7",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "144",
+                        "priceDelete": "293",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥149"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "144",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 3,
+                        "hotelName": "上海浦东国际机场迪航酒店",
+                        "hotelId": 6870954,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "接机服务",
+                            "行李寄存",
+                            "商务中心",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "4项优惠149",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/0AD15120009fce3os544F_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "浦东机场核心区",
+                        "poi": "距市中心直线26.5公里",
+                        "lat": "31.175525416826",
+                        "lng": "121.74495937003",
+                        "address": "晨阳西路653号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "3,046条点评"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M0eSOhC1CIO1Hp7sS8QmD64YfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dC1sxne2s9MuKIbY5Sw8zDFFzp9qIS/1Xkwjg161bs39l/Z\nYckRdtqb2e+Uuw+qm04rkMoYesexiJS4GBhynqForlD5rF8bCAUe+YDib3wAEfjYjTF4/qaPS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRSnBJD8DSfoR8Eg9xRqDGB6eYk8Wbbf0mgA1j5MLC7O+aMHCP+bUGAI+RHHHMa+G85/0cxG4\nAoTz3IV4VxnSI0EyTyYlI/aNyH60f3e9oRGH+aYfBojJYmf2CDgJqtgkx+79MBqxfZ4Ag3Qufdxf\npJSJ40NKRvr8DtyA1b7yuodjJ2oIwihoQdJo7jHF3l7khYMyFKg/0oBHKrxqleQjXCzb38b/CcO/\n0nY5B+9p7qmTMJYFTKcczc54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlMyn5MCM+Wg7UiRIr42YK8T\nVEDtlS3BpzBr+K7EBlyM+/Ee2QplwCe4z7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afVxTyvFOXzsfxX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdo2Xyp4xvinHQwMDyPlK58dDcNbRGJH5BvJma3wbL07MvLIicyc4Q0pl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+                    "traceInfo": "{\"timestamp\":1679817397372,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":6870954,\"groupId\":0,\"roomId\":871456429,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥293"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥44"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥59"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "折扣券",
+                                    "content": "- ¥30"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥16"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥144"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.7",
+                        "desc": "很好",
+                        "subScore": [
+                            {
+                                "number": "4.6",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "263",
+                        "priceDelete": "440",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥177"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "263",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 2,
+                        "hotelName": "上海前景小筑精品酒店",
+                        "hotelId": 2302699,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "行李寄存",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "3项优惠177",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond2_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/200e1f000001gulj6ADBC_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "人民广场",
+                        "poi": "距市中心直线660米",
+                        "lat": "31.232107459982",
+                        "lng": "121.480309287609",
+                        "address": "浙江中路108弄37号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "1,547条点评"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M1p6rhPKBGcYDftCwgSBQ/ZYfZrXI4iUrs+bmKPhzxQEhvCVk4/KQnwSu99mBzRyCn1\nrxlnVK5HMCMwzNw9rtrW2/MaIaM1+dDTN0U4dw/ut6IbY5Sw8zDFFzp9qIS/1XmvP4Cx+CZ0Cl/Z\nYckRdtqb2e+Uuw+qm05MDdPBY9NYHZ4yjfY1m26TrlD5rF8bCAUe+YDib3wAEYp+YUfCMShTS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRVaKTvvqrZfE8Eg9xRqDGB6eYk8Wbbf0mgA1j5MLC7O+aMHCP+bUGAI+RHHHMa+G85/0cxG4\nAoTz3IV4VxnSI0EyTyYlI/aNyH60f3e9oRGHtHeZLm+UJQs9kje6VOakt+79MBqxfZ4AbB1QmPQ5\nfniJ40NKRvr8DtyA1b7yuodjJ2oIwihoQdJo7jHF3l7khYMyFKg/0oBHKrxqleQjXCzb38b/CcO/\n0nY5B+9p7qmTMJYFTKcczc54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlMyn5MCM+Wg7UiRIr42YK8T\nVEDtlS3BpzBr+K7EBlyM+59lmLvUsExLz7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afWq4F/jq+U7ChX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEd0GCIweKxpFytI9CWg10C0tDcNbRGJH5Bht07B6Iqr3t38x303EP2+Zl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+                    "traceInfo": "{\"timestamp\":1679817397377,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":2302699,\"groupId\":0,\"roomId\":866479254,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥440"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥66"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥88"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新客券",
+                                    "content": "- ¥23"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥263"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.6",
+                        "desc": "好",
+                        "subScore": [
+                            {
+                                "number": "4.6",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.7",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.6",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "933",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [],
+                        "priceAndTax": "933",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 5,
+                        "hotelName": "上海闵行宝龙艾美酒店",
+                        "hotelId": 6220208,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "0",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "停车场",
+                            "接机服务",
+                            "健身室",
+                            "Spa",
+                            "酒吧",
+                            "咖啡厅",
+                            "行李寄存",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": false,
+                        "encryptTags": [],
+                        "p5Tags": [],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond5_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/200i0r000000guojjBBDA_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "七宝",
+                        "poi": "距市中心直线13.8公里",
+                        "lat": "31.157173012446",
+                        "lng": "121.35651772646",
+                        "address": "漕宝路3199号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "1,069条点评"
+                    },
+                    "banner": {
+                        "type": 6,
+                        "traceAdContextId": "H4sIAAAAAAAAAOO4t2Tt848GAowGjB6MAYxRzIZWRglMGQ1tKgWsHYxyExgZATeDzYsiAAAA"
+                    },
+                    "trace": {},
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M0MGOIU4nVxx/E6PDi8h7dueuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBzyK6YkhrE6LUSUf5NraAAq1bAHAhQxQSFrEOgJEOiydja7\n3uEEQGvkmyEfZHchUr+4LhWLe4Vp5T+iFgDKJqD5WD5+FVvBF6TBx5VY4C7AaCfstrb77ym+ADe2\njdpgmhqWLBDC2nBmWkS0o70dt5FA8To8OLyHt24QjaGge/hxVWHWoDA8JeXgO3KmWJr1GCQqDNJE\nRT5p5jNlynVL6lCTytsaVH35C+cxOrTMADI3vpPrErtYhfJfCvltDW/9FURiDghk6rHOBDYecODN\nVwosf7R3EukFld0LAiuyl959GRIHM18pT9i8lcxKuq6seFkT+e216LG1B5hKAPlW3TnGn4XadX0f\nHeUAIDZeRX9WOOgpcD1/SyFAT1ncraKgcJLu5ImerRNSBF9wXsna2oMh\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afVaNigXh+/3GBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdo2Xyp4xvinHsvtQZFD3mENDcNbRGJH5BROEH85vDfNtjVkRRs27vj/dr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+                    "traceInfo": "{\"timestamp\":1679817397379,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":6220208,\"groupId\":22,\"roomId\":1000126184,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥933"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥933"
+                        },
+                        "taxInfo": {}
+                    }
+                },
+                {
+                    "member": {
+                        "list": []
+                    },
+                    "score": {
+                        "number": "4.9",
+                        "desc": "超级棒",
+                        "subScore": [
+                            {
+                                "number": "4.8",
+                                "content": "环境"
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "卫生"
+                            },
+                            {
+                                "number": "4.9",
+                                "content": "服务"
+                            },
+                            {
+                                "number": "4.8",
+                                "content": "设施"
+                            }
+                        ]
+                    },
+                    "money": {
+                        "price": "325",
+                        "priceDelete": "465",
+                        "priceNote": "每晚 (不含税)",
+                        "discount": [
+                            {
+                                "type": "1",
+                                "list": [
+                                    "已减¥140"
+                                ]
+                            }
+                        ],
+                        "priceAndTax": "325",
+                        "includeTaxText": "",
+                        "includeTaxPrice": ""
+                    },
+                    "base": {
+                        "starType": "DIAMOND",
+                        "star": 4,
+                        "hotelName": "麦新格精品酒店(上海东方明珠店)",
+                        "hotelId": 1256432,
+                        "bookUrl": "",
+                        "book": "查看详情",
+                        "badge": "24",
+                        "badgeHover": "携程战略合作酒店/供应商，拥有优质服务、优良品质及优惠房价。",
+                        "isFavor": false,
+                        "hotelEnName": "",
+                        "tags": [
+                            "免费停车",
+                            "行李寄存",
+                            "会议厅",
+                            "快速入住退房"
+                        ],
+                        "isFullRoom": false,
+                        "isPrimeHotel": true,
+                        "encryptTags": [],
+                        "quickCheckTag": {
+                            "name": "闪住",
+                            "hover": "先住后付款, 入住免押金, 离店后按授权方式自动结账"
+                        },
+                        "p5Tags": [
+                            {
+                                "title": "2项优惠140",
+                                "style": "0"
+                            },
+                            {
+                                "title": "十亿豪补",
+                                "style": "1"
+                            },
+                            {
+                                "title": "新人首单价",
+                                "style": "1"
+                            }
+                        ],
+                        "p6Tags": [],
+                        "person": 0,
+                        "shaIcon": "",
+                        "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond4_20180824.png",
+                        "hotelStatus": 0,
+                        "hotelTypeTag": ""
+                    },
+                    "picture": {
+                        "list": [
+                            "//dimg04.c-ctrip.com/images/1mc1r12000ac7upsl68F5_R_300_225_R5_Q70_D.jpg"
+                        ],
+                        "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+                    },
+                    "position": {
+                        "cityId": 2,
+                        "area": "陆家嘴",
+                        "poi": "距市中心直线5.5公里",
+                        "lat": "31.238901",
+                        "lng": "121.530163",
+                        "address": "源深路168号",
+                        "cityName": "上海"
+                    },
+                    "transport": {},
+                    "comment": {
+                        "content": "5,212条点评"
+                    },
+                    "trace": {},
+                    "encourage": {
+                        "roomHoldMessage": "低价房型即将售完"
+                    },
+                    "promotion": [],
+                    "isHotHotel": false,
+                    "ctripTrace": {
+                        "listRoomId": 0,
+                        "listShadowId": 0,
+                        "exchange": "1.0",
+                        "currency": "RMB",
+                        "productInfo": "00000b7EUqtZn7M1w7k6sgvTN8Oxo9Jtnw43IeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUByaMKUmEaJAzESUf5NraAAq1bAHAhQxQSEDJXOCpmFcHBvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRVUt8AqTg3TOLv+nT/fWbOnqfjXRcro4Q63IILX9FJF673hm\nTM2OvHsPmHNj1EYELPKafoS69FpGNq6ETo06uwepCJPP7gc1hS2OwK1PMiTEsQzLLu9Qb7o35aEr\nb2UaLHU8LhXi4gOxaaRSpyLPfhnc4NSIExfotV0tXIHkGsE4MPEQXagW761S8Y/3GapAVLL2OIpf\niLUcdNHV1Arac51Yu7RZIb+nsyKPvmG93vbAHnrkLlIa/zWW5dJy52CIlCeJaglGqmKB958Fh9dI\nH+ErpwtghENw5h9bp/mvka+sTQ2QJrEJMCmWLC+GbX7gkSOwKphJW8K3ZyTNTZelt9A5wTFCRLk1\nJzQIxpI9HeYm6D/udyxQRbNen00PPfA3moblUE+fB/tpCgqI9z1T4R3xWErMSI4OisFRx1ISX2Bz\nIWB7VeUgOkKtGPgGlxq7/NaFNigy4+5xhTho/+Pai9E7+MeHFsioQbX+znYBtTQB\n"
+                    },
+                    "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmAUh5aUCzAS41a2asLb0G3t/gQaHmO0HwHwsk/ZdujxwKQcI8p5OgD5uHVL6ohpDCWxEpGsX8raFyYYYZu2PWI7eJEqREfB2RPT/Cr7GF0afVDkKVADFgqIJAfXqGQz1oPznji4MwUzjyONHPTyENDQ4UXWzwa4EC4aDivST2sKj8LsipWBM77AHGKVRyzdGMjAszHczGkbmcd9P6Z54U8CJl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+                    "traceInfo": "{\"timestamp\":1679817397383,\"checkIn\":\"2023-03-26\",\"checkOut\":\"2023-03-27\",\"region\":\"MAINLAND\",\"cityId\":2,\"hotelId\":1256432,\"groupId\":1660,\"roomId\":1145146088,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"0E66B5EF\",\"infoSec\":false}",
+                    "computeRoomPerson": 0,
+                    "roomLayerInfo": {
+                        "prePaidInfo": {
+                            "list": [
+                                {
+                                    "type": "RoomPrice",
+                                    "title": "每间每晚均价",
+                                    "content": "¥465"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "新人首单价",
+                                    "content": "- ¥70"
+                                },
+                                {
+                                    "type": "Coupon",
+                                    "title": "十亿豪补",
+                                    "content": "- ¥70"
+                                }
+                            ]
+                        },
+                        "totalInfo": {
+                            "price": "¥325"
+                        },
+                        "taxInfo": {}
+                    }
+                }
+            ],
+            "lastPage": 0
+        },
+        "resultTitle": "找到9,935家酒店",
+        "sortInfo": {
+            "list": [
+                {
+                    "text": "推荐",
+                    "status": 1,
+                    "value": "AppointRank"
+                },
+                {
+                    "text": "价格",
+                    "list": [
+                        {
+                            "text": "价格（由低到高）",
+                            "status": 0,
+                            "value": "price0"
+                        },
+                        {
+                            "text": "价格（由高到低）",
+                            "status": 0,
+                            "value": "price1"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "text": "星级",
+                    "list": [
+                        {
+                            "text": "星級（由高至低）",
+                            "status": 0,
+                            "value": "sr1"
+                        },
+                        {
+                            "text": "星級（由低至高）",
+                            "status": 0,
+                            "value": "sr0"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "text": "住客评级",
+                    "status": 0,
+                    "value": "gr1"
+                },
+                {
+                    "text": "距离",
+                    "status": 0,
+                    "value": "dis0"
+                }
+            ]
+        },
+        "seqid": "c28228780fd64e89b4841932494c132b",
+        "priceType": "0",
+        "isOversea": false,
+        "GtmData": "",
+        "specialInfo": "2019年7月1日起，上海酒店不再主动提供一次性用品，具体请咨询酒店。",
+        "recommendHotel": {},
+        "isPOISort": "F",
+        "abTestResult": "A",
+        "isEnd": false,
+        "traceId": 1298606,
+        "ubt": "{\"filters\":[{\"filterId\":\"22|666667\",\"type\":\"22\",\"value\":\"666667\",\"subType\":\"2\"},{\"filterId\":\"29|1\",\"type\":\"29\",\"value\":\"1|1\",\"subType\":\"2\"}],\"userPrefer\":\"{\\\"category\\\":\\\"\\\",\\\"prices\\\":{\\\"absolutePrice\\\":249,\\\"highestPrice\\\":310,\\\"lowestPrice\\\":200,\\\"predictPrice\\\":249,\\\"priceFlag\\\":0,\\\"prices\\\":[{\\\"leftDownPirce\\\":162,\\\"leftUpPrice\\\":199,\\\"priority\\\":2,\\\"rightDownPrice\\\":311,\\\"rightUpPrice\\\":430,\\\"schema\\\":{\\\"fields\\\":[{\\\"name\\\":\\\"priority\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":0,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"leftDownPirce\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":1,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"leftUpPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":2,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"rightDownPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":3,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"rightUpPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":4,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}}],\\\"fullName\\\":\\\"com.ctrip.hotel.user.profile.contract.entity.PriceLayer\\\",\\\"name\\\":\\\"PriceLayer\\\",\\\"namespace\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\",\\\"schemaName\\\":{\\\"fullName\\\":\\\"com.ctrip.hotel.user.profile.contract.entity.PriceLayer\\\",\\\"name\\\":\\\"PriceLayer\\\",\\\"namespace\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\",\\\"space\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\"},\\\"type\\\":\\\"RECORD\\\"}}],\\\"quantilePrice\\\":249},\\\"stars\\\":{\\\"stars\\\":[2,3,4]},\\\"userPredict\\\":{\\\"userType\\\":4}}\"}",
+        "disableSsr": false
+    },
+    "ResponseStatus": {
+        "Timestamp": "/Date(1679817397392+0800)/",
+        "Ack": "Success",
+        "Errors": [],
+        "Extension": [
+            {
+                "Id": "TraceLogId",
+                "Value": "a7c862ef-9dda-414f-879c-c39d32f54d101679817396288"
+            },
+            {
+                "Id": "CLOGGING_TRACE_ID",
+                "Value": "8939528957906590665"
+            },
+            {
+                "Id": "RootMessageId",
+                "Value": "100025527-0a70c342-466615-4195835"
+            }
+        ]
+    },
+    "ErrorCode": 0
+}
